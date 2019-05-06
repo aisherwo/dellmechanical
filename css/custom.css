@@ -1,0 +1,135 @@
+html {
+  scroll-behavior: smooth;
+}
+ 
+body{
+	background-image: linear-gradient(#ffffff, #3b8fcc)
+}
+
+
+#topbar{
+    background-color: #3b8fcc;
+}
+
+#botbar{
+    background-color: #b3d8ed;
+}
+
+#profile{
+    max-width: 50%;
+}
+
+#profile-name{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#logo{
+	margin-left:100px;
+}
+
+h1 {
+    font-family: 'Fjalla One';
+    font-size: 64px;
+}
+
+h2 {
+    font-family: 'Fjalla One';
+	font-size: 28px;
+	margin-top:40px;
+}
+h3 {
+    font-family: 'Fjalla One';
+	font-size: 22px;
+	padding-top:10px;
+}
+
+
+p{
+    font-family: 'Open Sans';
+    font-size: 18px;
+	opacity:1.0;
+	padding:5px;
+}
+
+
+
+#chris {
+	padding-top:55px;
+}
+
+.about {
+	background-color:aliceblue;
+	padding:20px;
+	border-style:solid;
+	border-width: thin;
+	box-shadow: 20px 20px 50px #1c273e;
+}
+
+.services {
+	background-color:aliceblue;
+	padding:20px;
+	border-style:solid;
+	border-width: thin;
+	box-shadow: 20px 20px 50px #1c273e;
+}
+
+.safety {
+	background-color:aliceblue;
+	padding:20px;
+
+	border-style:solid;
+	border-width: thin;
+	box-shadow: 20px 20px 50px #1c273e;
+}
+
+.residential {
+	background-color:aliceblue;
+	padding:20px;
+	border-style:solid;
+	border-width: thin;
+	box-shadow: 20px 20px 50px #1c273e;
+}
+
+/* unvisited link */
+.phone:link {
+  color: white;
+}
+
+/* visited link */
+.phone:visited {
+  color: black;
+}
+
+/* mouse over link */
+.phone:hover {
+  background-color: white;
+  color: #3b8fcc;
+}
+
+/* selected link */
+.phone:active {
+  color: blue;
+}
+
+i {
+	font-size:50px;
+	color: #1f5881;
+}
+
+.link {
+	color: #1f5881;
+	font-size:18px;
+}
+
+.link:hover {
+	color: #ffffff;
+
+}
+
+#plumbing{
+	padding-right:50px;
+	padding-bottom:50px;
+}
+
+
